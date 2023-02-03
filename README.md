@@ -1,7 +1,7 @@
 <h4>Hey there👋. My name it's Ricardo. <br> 
 Software Engineering student from Rafael Belloso Chacin University🏛, Maracaibo, Venezuela</h1>
 
-<h4> UsedFront-End Programming Languages</h4>
+<h4> Used Front-End Programming Languages</h4>
 <ul>
   <li><img style="display: block" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"></li>
   <li><img style="display: block" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></li>
