@@ -11,7 +11,7 @@ Software Engineering student from Rafael Belloso Chacin University🏛, Maracaib
   <li><img style="display: block" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"></li>
 </ul>
 
-<h4>Used Back-End Programming Languages</h4> 
+<h4>Used Back-End Programming Languages & DataBases</h4> 
 <ul>
   <li><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"></li>
   <li><img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"></li>
@@ -45,7 +45,7 @@ Software Engineering student from Rafael Belloso Chacin University🏛, Maracaib
   <li><a href="https://www.linkedin.com/in/lzzow29/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
     </a></li>
-  <li><a href="mailto:ririartef@gmail.com">
+  <li><a href="mailto:reiriartef@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
     </a></li>
 </ul>
